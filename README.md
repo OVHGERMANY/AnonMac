@@ -6,10 +6,16 @@ AnonMac is a Python-based tool designed to enhance user privacy by dynamically c
 
 Features:
 📡 Speed or Ping test to select the best MAC address.
+
 🔄 Options for automatic MAC changes: from minutes to reboots.
+
 🧹 Cleanup routines for enhanced anonymity.
+
 🎯 User-friendly interface with guided prompts.
+
 🛠 Built-in prerequisite checker and installer hints.
+
 Warnings:
+
 💡 Using this tool on remote servers (like VPS) can lead to disconnections. A server reboot might be required.
 🌐 Running speed tests can temporarily saturate your network, causing brief disruptions.
